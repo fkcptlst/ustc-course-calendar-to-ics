@@ -10,7 +10,9 @@ pip install pytz
 
 ## 使用方法
 
-打开 https://jw.ustc.edu.cn/for-std/course-select，打开课表。
+打开 https://jw.ustc.edu.cn/for-std/course-select
+
+，打开课表。
 
 ![course table](assets/course-table.png)
 
